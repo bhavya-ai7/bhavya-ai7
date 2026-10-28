@@ -17,7 +17,7 @@ I build AI-powered applications, intelligent agents, and reliable backend servic
 **Backend:** Python, FastAPI, REST APIs, Java / Spring Boot  
 **Data:** SQL, PostgreSQL, pgvector, PySpark, Databricks, Snowflake  
 **Frontend:** React, TypeScript  
-**Cloud & DevOps:** GCP, Docker, Kubernetes, GitHub Actions
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions
 
 
 *I care about building useful software, writing maintainable code, and learning by shipping.*
