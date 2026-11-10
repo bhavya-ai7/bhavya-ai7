@@ -14,10 +14,12 @@ I build AI-powered applications, intelligent agents, and reliable backend servic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white)
 
 
-**AI:** LLMs, RAG, LangGraph, LangChain, embeddings, agent orchestration
-**Data:** Python, SQL, PySpark, Databricks, Snowflake, Apache Spark, Delta Lake  
+
+**AI:** LLMs, RAG, LangGraph, LangChain, Embeddings, Agent Orchestration  
 **Backend & Databases:** FastAPI, PostgreSQL, pgvector, REST APIs  
-**Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions
+**Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions  
+**Data:** Python, SQL, PySpark, Databricks, Snowflake, Apache Spark, Delta Lake
+ 
 
 
 
